@@ -22,5 +22,6 @@ while True:
 with open('passwords.txt', 'a') as f:
     f.write(f'{name}:{password}\n')
 
+
 print(f"Hello, {name}! Your password has been saved to a file.")
 print("Thank you for chosing this program! and good bye")
