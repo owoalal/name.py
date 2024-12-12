@@ -1,2 +1,6 @@
-print("kol khara ya sleman")
-print("hala za khara")
+
+var1 = True
+
+str(var1)
+
+print(str(var1), "\t", type(str(var1)))
