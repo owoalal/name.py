@@ -48,10 +48,10 @@ if not os.path.exists(video_folder):
 # Define file extensions for each category
 image_extensions = [".png", ".jpg", ".jpeg", ".gif", ".bmp", ".tiff", ".svg", ".webp"]
 sound_extensions = [".mp3", ".wav", ".aac", ".flac", ".ogg", ".wma", ".m4a", ".aiff"]
-text_extensions = [".txt, .md, .rtf, .doc, .docx, .odt, .pdf, .tex, .wpd"]
-executable_extensions = [".exe, .bat, .cmd, .sh, .bin, .com, .run, .msi"]
-document_extensions = [".doc, .docx, .odt, .pdf, .rtf, .tex, .wpd"]
-video_extensions = [".mp4, .avi, .mkv, .mov, .wmv, .flv, .webm, .mpeg, .mpg, .m4v"]
+text_extensions = [".txt", ".md", ".rtf"]
+executable_extensions = [".exe", ".bat", ".cmd", ".sh", ".bin", ".com", ".run", ".msi"]
+document_extensions = [".doc", ".docx", ".odt", ".pdf", ".tex", ".wpd"]
+video_extensions = [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm", ".mpeg", ".mpg", ".m4v"]
 
 
 # for moving the files to their respective folders
