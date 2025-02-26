@@ -14,6 +14,7 @@ while not os.path.exists(path2):
 
 
 
+
 # Define folders for each category
 image_folder = os.path.join(path2, "imagepython")
 sound_folder = os.path.join(path2, "sound1")
@@ -96,5 +97,4 @@ if empty_folders:
             os.rmdir(folder)
             print(f"Removed empty folder: {folder}")
 
-print("All files have been organized successfully!")
 print("Thank you for using this app!")
