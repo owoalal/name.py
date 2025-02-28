@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9342b798-72ef-4ca7-b0bc-a4865ceb8558" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/password/very good code.py" beforeDir="false" afterPath="$PROJECT_DIR$/password/very good code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +30,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ff.executor": "Run",
-    "Python.name and password .executor": "Run",
-    "Python.science.executor": "Run",
-    "Python.very good code.executor": "Run",
-    "Python.virus password stealer.executor": "Run",
-    "Python.virus.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/lomol/Documents/GitHub/name.py/password stealer",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.name and password .executor&quot;: &quot;Run&quot;,
+    &quot;Python.science.executor&quot;: &quot;Run&quot;,
+    &quot;Python.very good code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.virus password stealer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.virus.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lomol/Documents/GitHub/name.py/password stealer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lomol\Documents\GitHub\name.py\password stealer" />
@@ -87,6 +87,7 @@
       <workItem from="1740671657284" duration="1296000" />
       <workItem from="1740675952074" duration="1582000" />
       <workItem from="1740750949657" duration="1119000" />
+      <workItem from="1740752242917" duration="609000" />
     </task>
     <servers />
   </component>
