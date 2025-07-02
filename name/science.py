@@ -60,7 +60,7 @@ def main():
             gamma1 = float(input("Entrez la concentration massique initiale (en g/L) : "))
             V2 = float(input("Entrez le volume d'eau ajouté (en L) : "))
             m = gamma1 * V1
-            V_total = V1 + V2
+            V_total = V1 + V25
             gamma2 = m / V_total
             print(f"La nouvelle concentration massique est : {gamma2:.2f} g/L")
 

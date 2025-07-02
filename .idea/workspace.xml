@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9342b798-72ef-4ca7-b0bc-a4865ceb8558" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/name/test wift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name/osama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maath/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/maath/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name/name and password .py" beforeDir="false" afterPath="$PROJECT_DIR$/name/name and password .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name/science.py" beforeDir="false" afterPath="$PROJECT_DIR$/name/science.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name/test wift.py" beforeDir="false" afterPath="$PROJECT_DIR$/name/test wift.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organiser progect/full organiser script.py" beforeDir="false" afterPath="$PROJECT_DIR$/organiser progect/full organiser script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ramadan/ramad discord.py" beforeDir="false" afterPath="$PROJECT_DIR$/ramadan/ramad discord.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,28 +38,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ff.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.name and password .executor&quot;: &quot;Run&quot;,
-    &quot;Python.ramad discord.executor&quot;: &quot;Run&quot;,
-    &quot;Python.science.executor&quot;: &quot;Run&quot;,
-    &quot;Python.very good code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.virus password stealer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.virus.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lomol/Documents/GitHub/name.py/password stealer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ff.executor": "Run",
+    "Python.full organiser script.executor": "Debug",
+    "Python.math.executor": "Run",
+    "Python.name and password .executor": "Run",
+    "Python.organiser app.executor": "Run",
+    "Python.osama.executor": "Run",
+    "Python.ramad discord.executor": "Run",
+    "Python.russian roullette.executor": "Run",
+    "Python.science.executor": "Run",
+    "Python.test wift.executor": "Run",
+    "Python.very good code.executor": "Run",
+    "Python.virus password stealer.executor": "Run",
+    "Python.virus.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/lomol/Documents/GitHub/name.py/password stealer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lomol\Documents\GitHub\name.py\password stealer" />
@@ -98,6 +111,25 @@
       <workItem from="1741556441085" duration="50000" />
       <workItem from="1741696097989" duration="24000" />
       <workItem from="1741769166488" duration="92000" />
+      <workItem from="1741958795303" duration="1850000" />
+      <workItem from="1742374132958" duration="181000" />
+      <workItem from="1742537811775" duration="94000" />
+      <workItem from="1743453917782" duration="23000" />
+      <workItem from="1743970786487" duration="706000" />
+      <workItem from="1744132189867" duration="733000" />
+      <workItem from="1745523596965" duration="352000" />
+      <workItem from="1746734453617" duration="85000" />
+      <workItem from="1748636019771" duration="671000" />
+      <workItem from="1749028060855" duration="546000" />
+      <workItem from="1749542866350" duration="73000" />
+      <workItem from="1749543010320" duration="134000" />
+      <workItem from="1749543372554" duration="21000" />
+      <workItem from="1749667468395" duration="451000" />
+      <workItem from="1750075945414" duration="1227000" />
+      <workItem from="1750233729775" duration="454000" />
+      <workItem from="1750750066159" duration="1147000" />
+      <workItem from="1750751297083" duration="3000" />
+      <workItem from="1751494539637" duration="1891000" />
     </task>
     <servers />
   </component>
@@ -105,13 +137,18 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/name_py$name_and_password_.coverage" NAME="name and password  Coverage Results" MODIFIED="1740750959278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
-    <SUITE FILE_PATH="coverage/name_py$ramad_discord.coverage" NAME="ramad discord Coverage Results" MODIFIED="1741224740257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ramadan" />
-    <SUITE FILE_PATH="coverage/name_py$math.coverage" NAME="math Coverage Results" MODIFIED="1741458940560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maath" />
-    <SUITE FILE_PATH="coverage/name_py$very_good_code.coverage" NAME="very good code Coverage Results" MODIFIED="1740752060418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password" />
-    <SUITE FILE_PATH="coverage/name_py$science.coverage" NAME="science Coverage Results" MODIFIED="1740564521686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/name_py$osama.coverage" NAME="osama Coverage Results" MODIFIED="1751495670246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/name_py$math.coverage" NAME="math Coverage Results" MODIFIED="1741959361725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maath" />
+    <SUITE FILE_PATH="coverage/name_py$very_good_code.coverage" NAME="very good code Coverage Results" MODIFIED="1748636065204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password" />
+    <SUITE FILE_PATH="coverage/name_py$science.coverage" NAME="science Coverage Results" MODIFIED="1749667504177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
     <SUITE FILE_PATH="coverage/name_py$virus_password_stealer.coverage" NAME="virus password stealer Coverage Results" MODIFIED="1740667872393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password stealer" />
+    <SUITE FILE_PATH="coverage/name_py$russian_roullette.coverage" NAME="russian roullette Coverage Results" MODIFIED="1750750167424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/name_py$test_wift.coverage" NAME="test wift Coverage Results" MODIFIED="1750076792107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/name_py$name_and_password_.coverage" NAME="name and password  Coverage Results" MODIFIED="1750750845587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
+    <SUITE FILE_PATH="coverage/name_py$full_organiser_script.coverage" NAME="full organiser script Coverage Results" MODIFIED="1750234063212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/organiser progect" />
+    <SUITE FILE_PATH="coverage/name_py$ramad_discord.coverage" NAME="ramad discord Coverage Results" MODIFIED="1749667896304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ramadan" />
     <SUITE FILE_PATH="coverage/name_py$ff.coverage" NAME="ff Coverage Results" MODIFIED="1740670007811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password stealer" />
     <SUITE FILE_PATH="coverage/name_py$virus.coverage" NAME="virus Coverage Results" MODIFIED="1740676154627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password stealer" />
+    <SUITE FILE_PATH="coverage/name_py$organiser_app.coverage" NAME="organiser app Coverage Results" MODIFIED="1750077126058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/organiser progect" />
   </component>
 </project>

@@ -2,7 +2,7 @@ import os
 import requests
 from tqdm import tqdm
 
-base_url = "https://content.plantyn.com/CMS/CDS/Plantyn/Public%20Content/Averbode/Published%20Content/Auteurs/Auteur_Franstalig/Amplitude/Tome%203/Amplitude%203%20-%20R%C3%A9f%C3%A9rentiel/Resources/Amplitude3_Referentiel.pdf_/"
+base_url = "https://content.plantyn.com/CMS/CDS/Plantyn/Public%20Content/Averbode/Published%20Content/Auteurs/Auteur_Franstalig/Amplitude/Tome%203/Amplitude%203%20-%20Manuel%20num%C3%A9rique%20enrichi/Resources/Amplitude3_Livrecahier_sansSolut.pdf_/"
 
 
 save_folder = r"C:\Users\lomol\Downloads\math"
@@ -10,13 +10,13 @@ os.makedirs(save_folder, exist_ok=True)
 
 
 cookies = {
-    "_3sct": "1741458172XCASJFpd8uXUWdpbN5WRq6LZMwvsXQyTPU631D55Hf4CvC8BrHK%2BYpdiKTsEGuxwSStMFJEtPOtR5a%2FyfH49lAr1YCj1wHLG%2F7Jm%2FmpS1u6nWRci%2F85K3wsDov98OSjOu8n6RCvt6r1U7kyVz8geavdo52y1%2Frb5y0MWifVCJyuyFcA%3D",
+    "_3sct": "1741958908XCASzygYT2LKEsl6pDBnvunhaL5MOW2LyaOnHpQ%2Fn%2BZyzFvVd1FFsk9zkMR65IEQOvwDs%2BrOVpkUtBZKtFoRZg1gfiG%2Bnj6F3MBj6D5MXxsPWtQO%2FX1NqzAPRvtWQwx1Y%2BMqUH4PwF1aBrXbsUEurgNrr8IrndzjWVK7MdYlUkC0UhE%3D",
     "rl_anonymous_id": "b0d2cf5e-cd23-4926-ba8b-ab72c32c4268",
     "rl_page_init_referrer": "https://www.google.com/",
     "rl_page_init_referring_domain": "www.google.com",
     "rl_user_id": "5eb73d5d-1c49-4c01-8f74-afe6014962c3",
-    "rl_session": "1741457333617",
-    "N@TCookie": "CDS=%7B30C5DF0B%2DB785%2D42CD%2DA383%2D850A2A18DF7E%7D"
+    "rl_session": "1741958761200",
+    "N@TCookie": "CDS=%7BB6052B7E%2DA7B1%2D4F66%2DA0BA%2DE939E8A7711B%7D"
 }
 
 
@@ -25,7 +25,7 @@ headers = {
 }
 
 
-start, end = 1,99
+start, end = 1,379
 
 for i in tqdm(range(start, end + 1), desc="Downloading images"):
     img_url = f"{base_url}{i}.png"
