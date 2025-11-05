@@ -12,6 +12,10 @@ from datetime import datetime, timedelta
 from collections import defaultdict, Counter
 import traceback
 
+print("Hello and welcome to MHD utils")
+
+
+
 # COMPLETE ERROR_DB DICTIONARY FIRST
 ERROR_DB = {
     "0": {"name": "STATUS_SUCCESS", "description": "Operation completed successfully", "severity": "INFO",
@@ -611,6 +615,9 @@ def check_system_health():
                 })
 
     return health
+
+
+
 
 
 def analyze_drivers():

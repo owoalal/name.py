@@ -1,0 +1,56 @@
+================================================================================
+PC CRASH DIAGNOSTIC REPORT
+================================================================================
+Generated at: 2025-10-13 16:30:26
+
+
+[SYSTEM OVERVIEW]
+OS: nt Windows 11
+CPU: 13th Gen Intel(R) Core(TM) i7-13700HX
+Memory: 31.71 GB
+GPU: Intel(R) UHD Graphics
+
+
+[✓] No critical errors detected in event logs
+
+
+[CRASH DUMP FILES FOUND]
+  • C:\Windows\Minidump\100925-33078-01.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\ADPClientService.exe.18216.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\AirConnect - Screen Mirroring _ File Sharing Installer.exe.16224.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\MooMans_Brainrot_Macro.exe.3844.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\RazerCortex.exe.12824.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\SoftwareUpdate.exe.20344.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\SoftwareUpdate.exe.3076.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\SoftwareUpdate.exe.8976.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\SoftwareUpdate.exe.972.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\TranslucentTB.exe.15064.dmp
+  • C:\Users\lomol\AppData\Local\CrashDumps\TranslucentTB.exe.2960.dmp
+
+  Analyze these with WinDbg or use the following online tools:
+  https://www.osronline.com/page.cfm?name=analyze
+  https://www.nirsoft.net/utils/blue_screen_view.html
+
+
+[SYSTEM HEALTH CHECK]
+Memory Usage: 24.1% - OK
+CPU Usage: 0.2% - OK
+Disk (C:\): 31.7% used - OK
+Disk (D:\): 35.0% used - OK
+
+[DRIVER STATUS]
+Found 348 drivers with issues:
+  • 1394ohci - State: Stopped, Status: OK
+  • 3ware - State: Stopped, Status: OK
+  • AcpiBridge - State: Stopped, Status: OK
+  • AcpiDev - State: Stopped, Status: OK
+  • acpipagr - State: Stopped, Status: OK
+
+[RECOMMENDED ACTIONS]
+1. Run memory diagnostics: Press Win+R and type 'mdsched.exe'
+2. Update all device drivers (especially graphics and chipset)
+3. Check for Windows updates
+4. Perform system file check: Open CMD as admin and run 'sfc /scannow'
+5. Check disk for errors: Open CMD as admin and run 'chkdsk /f'
+
+================================================================================

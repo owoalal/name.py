@@ -128,6 +128,10 @@ def main():
                         break
 
 
+        elif choice == "secret2":
+            cef = input("wanna play a game (yes/no): ")
+            if cef.lower() == 'yes':
+                print("if i win i take your system")
             else:
                 print("Russian roulette cancelled")
                 print("dont ever try to play russian roulette pussy ")
