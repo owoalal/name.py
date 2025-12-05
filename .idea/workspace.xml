@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9342b798-72ef-4ca7-b0bc-a4865ceb8558" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/build.py" beforeDir="false" afterPath="$PROJECT_DIR$/name/build.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/name and password .py" beforeDir="false" afterPath="$PROJECT_DIR$/name/name and password .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/osama.py" beforeDir="false" afterPath="$PROJECT_DIR$/name/osama.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/russian roullette.py" beforeDir="false" afterPath="$PROJECT_DIR$/name/russian roullette.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/science.py" beforeDir="false" afterPath="$PROJECT_DIR$/name/science.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ramadan/ramad discord.py" beforeDir="false" afterPath="$PROJECT_DIR$/ramadan/ramad discord.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;owoalal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/owoalal/name.py.git&quot;,
+    &quot;accountId&quot;: &quot;6a22623c-c7ae-4de5-bdc8-41da3d22c163&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -36,34 +43,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.build.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ff.executor&quot;: &quot;Run&quot;,
-    &quot;Python.full organiser script.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.name and password .executor&quot;: &quot;Run&quot;,
-    &quot;Python.organiser app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.osama.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ramad discord.executor&quot;: &quot;Run&quot;,
-    &quot;Python.russian roullette.executor&quot;: &quot;Run&quot;,
-    &quot;Python.science.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test wift.executor&quot;: &quot;Run&quot;,
-    &quot;Python.very good code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.virus password stealer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.virus.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lomol/Documents/GitHub/name.py/password stealer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.build.executor": "Run",
+    "Python.ff.executor": "Run",
+    "Python.full organiser script.executor": "Debug",
+    "Python.math.executor": "Run",
+    "Python.name and password .executor": "Run",
+    "Python.organiser app.executor": "Run",
+    "Python.osama.executor": "Run",
+    "Python.ramad discord.executor": "Run",
+    "Python.russian roullette.executor": "Run",
+    "Python.science.executor": "Run",
+    "Python.test wift.executor": "Run",
+    "Python.very good code.executor": "Run",
+    "Python.virus password stealer.executor": "Run",
+    "Python.virus.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/lomol/Documents/GitHub/name.py/password stealer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lomol\Documents\GitHub\name.py\password stealer" />
@@ -130,8 +142,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28238.29" />
+        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
       </set>
     </attachedChunks>
   </component>
@@ -193,6 +205,8 @@
       <workItem from="1760634146091" duration="1719000" />
       <workItem from="1760636366250" duration="614000" />
       <workItem from="1761779262203" duration="39000" />
+      <workItem from="1764927380689" duration="422000" />
+      <workItem from="1764927821632" duration="171000" />
     </task>
     <servers />
   </component>
@@ -214,5 +228,13 @@
     <SUITE FILE_PATH="coverage/name_py$ff.coverage" NAME="ff Coverage Results" MODIFIED="1740670007811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password stealer" />
     <SUITE FILE_PATH="coverage/name_py$virus.coverage" NAME="virus Coverage Results" MODIFIED="1740676154627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password stealer" />
     <SUITE FILE_PATH="coverage/name_py$organiser_app.coverage" NAME="organiser app Coverage Results" MODIFIED="1750077126058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/organiser progect" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
